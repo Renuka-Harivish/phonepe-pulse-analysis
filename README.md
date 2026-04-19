@@ -1,1 +1,0 @@
-PhonePe Data Analysis for India using Python & Streamlit. This project analyzes transactions, users, device dominance, and regional trends across states and districts, delivering interactive dashboards and business insights from real-world payment data.
